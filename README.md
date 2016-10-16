@@ -1,2 +1,2 @@
-# intangible_art
+# Intangible Art
 Generative art as unfinshed artwork
