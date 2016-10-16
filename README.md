@@ -4,6 +4,7 @@ Generative art as unfinshed artwork / work in progress for Graham Newman's MResR
 All source code attributed to Matt Pearson:
 
 http://www.abandonedart.org
+
 http://www.zenbullets.com
 
 Please buy Matt's book on Generative Art, published by Manning:
