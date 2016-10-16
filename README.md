@@ -1,2 +1,10 @@
 # Intangible Art
-Generative art as unfinshed artwork
+Generative art as unfinshed artwork / work in progress for Graham Newman's MResRCA Royal College Of Art Research.
+
+All source code attributed to Matt Pearson:
+
+// http://www.abandonedart.org
+// http://www.zenbullets.com
+
+Buy Matt's book on Generative Art, published by Manning:
+https://www.manning.com/books/generative-art
